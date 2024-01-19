@@ -1,1 +1,1 @@
-# Automated Liver Segmentation
+# An integrated approach for diagnosis and planning
